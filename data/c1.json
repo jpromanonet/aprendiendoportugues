@@ -1,0 +1,347 @@
+[
+  {
+    "number": 1,
+    "title": "Matices del discurso",
+    "summary": "Conectores formales para argumentar con precisión.",
+    "body": [
+      "En el registro escrito y en el debate, mas y então se quedan cortos. Contudo, todavia y entretanto marcan oposición con distinto peso. Portanto y ademais encadenan: uno concluye, el otro suma.",
+      "Conquanto introduce una concesión y pide subjuntivo: conquanto seja caro, vale a pena. Mediante es «a cambio de» o «por medio de». Visto que da la razón de lo que sigue."
+    ],
+    "pins": [
+      "contudo",
+      "todavia",
+      "entretanto",
+      "portanto",
+      "ademais",
+      "conquanto",
+      "mediante",
+      "visto que"
+    ],
+    "quiz": [
+      {
+        "prompt": "Portanto equivale a…",
+        "options": [
+          "por lo tanto",
+          "sin embargo",
+          "además",
+          "mientras"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Conquanto pide…",
+        "options": [
+          "subjuntivo",
+          "imperativo",
+          "gerundio",
+          "participio"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Ademais significa…",
+        "options": [
+          "además",
+          "demasiado",
+          "adelante",
+          "ayer"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Visto que introduce…",
+        "options": [
+          "una causa",
+          "una pregunta",
+          "un saludo",
+          "un precio"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Todavia en este uso significa…",
+        "options": [
+          "no obstante",
+          "todavía",
+          "toda vía",
+          "todos"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Lenguaje jurídico",
+    "summary": "Contrato, cláusula, juicio y sentencia.",
+    "body": [
+      "Un contrato tiene cláusulas y se firma ante un advogado. Si hay conflicto, se va al tribunal, donde el juiz dicta la sentença.",
+      "Todo ese camino es un processo, que también significa «proceso». Una multa es una sanción económica. En portugués los textos jurídicos conservan fórmulas largas y ritmo solemne."
+    ],
+    "pins": [
+      "contrato",
+      "cláusula",
+      "tribunal",
+      "sentença",
+      "advogado",
+      "juiz",
+      "processo",
+      "multa"
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Economía avanzada",
+    "summary": "Superávit, balance, accionistas y recesión.",
+    "body": [
+      "Un país o una empresa pueden tener superávit o déficit. El balanço resume las cuentas y el patrimônio dice cuánto se posee.",
+      "Los acionistas cobran dividendo. Una recessão frena la economía. El tributo es el término jurídico para el impuesto y suena más formal que imposto."
+    ],
+    "pins": [
+      "superávit",
+      "déficit",
+      "patrimônio",
+      "balanço",
+      "acionista",
+      "dividendo",
+      "recessão",
+      "tributo"
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Ideas y filosofía",
+    "summary": "Ética, libertad, justicia y virtud.",
+    "body": [
+      "La ética orienta la decisión. La liberdade y la justiça son valores que se discuten sin fin. La consciência es lo que sabe que algo está bien o mal.",
+      "Un conceito es una idea abstracta. La essência es lo que no cambia. La virtude es un rasgo positivo. Consciência significa tanto «conciencia moral» como «saber algo»."
+    ],
+    "pins": [
+      "ética",
+      "liberdade",
+      "justiça",
+      "consciência",
+      "conceito",
+      "essência",
+      "virtude"
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Ciencia avanzada",
+    "summary": "Teoría, método, muestra y variable.",
+    "body": [
+      "Una teoria explica un fenómeno. El método dice cómo se llega a la conclusión. La amostra es la parte que se estudia y la variável es lo que cambia.",
+      "El pesquisador trabaja en el laboratório y escribe una fórmula. En un paper brasileño vas a encontrar todos estos términos casi idénticos al español."
+    ],
+    "pins": [
+      "teoria",
+      "método",
+      "amostra",
+      "variável",
+      "laboratório",
+      "fórmula",
+      "pesquisador"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Literatura y estilo",
+    "summary": "Metáfora, narrador, trama e ironía.",
+    "body": [
+      "Un texto literario tiene narrador, enredo y personagem. La metáfora y la ironia son recursos de estilo. La prosa y el verso son las dos formas básicas.",
+      "Personagem es femenino o masculino según quien sea: a personagem principal, o personagem principal. La palabra sirve para ambos géneros."
+    ],
+    "pins": [
+      "metáfora",
+      "narrador",
+      "enredo",
+      "personagem",
+      "ironia",
+      "prosa",
+      "verso"
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Retórica y medios",
+    "summary": "Discurso, debate, prensa y censura.",
+    "body": [
+      "La retórica es el arte de persuadir. Un discurso se pronuncia y un debate se discute entre varios. La propaganda es publicidad y también propaganda política.",
+      "La censura limita lo que se puede decir. La imprensa investiga y publica. La narrativa es el relato con el que se cuenta un hecho."
+    ],
+    "pins": [
+      "retórica",
+      "discurso",
+      "debate",
+      "propaganda",
+      "censura",
+      "imprensa",
+      "narrativa"
+    ],
+    "dialogue": [
+      {
+        "zh": "O debate de ontem foi tenso.",
+        "py": "u debachi dyi ontein foi tensu",
+        "es": "El debate de ayer fue tenso."
+      },
+      {
+        "zh": "Pois é. O candidato mudou o discurso.",
+        "py": "pois é u kandyidatu mudou u dyiskursu",
+        "es": "Y sí. El candidato cambió el discurso."
+      },
+      {
+        "zh": "A imprensa vai investigar.",
+        "py": "a imprensa vai inveschigar",
+        "es": "La prensa va a investigar."
+      },
+      {
+        "zh": "Tomara que sim. A narrativa dele não fecha.",
+        "py": "tomara ki sin a najachiva deli nãu fesha",
+        "es": "Ojalá. Su relato no cierra."
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Psicología",
+    "summary": "Conducta, personalidad, memoria y empatía.",
+    "body": [
+      "El comportamento se observa. La personalidade es el conjunto de rasgos. La memória guarda lo vivido y el trauma deja marcas.",
+      "La empatia permite ponerse en el lugar del otro y la motivação empuja a actuar. La mente es la palabra general. Ojo: ele mente también significa «él miente»."
+    ],
+    "pins": [
+      "comportamento",
+      "personalidade",
+      "memória",
+      "trauma",
+      "empatia",
+      "motivação",
+      "mente"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Historia",
+    "summary": "Colonia, imperio, independencia y república.",
+    "body": [
+      "La história de Brasil empieza con la colônia de Portugal. Después viene el império y la independência, que ocurrió en el siglo diecinueve.",
+      "La escravidão marcó siglos y todavía se discute. La república nació a fines de ese mismo siglo. Una revolução cambia el rumbo de un país."
+    ],
+    "pins": [
+      "história",
+      "império",
+      "colônia",
+      "independência",
+      "escravidão",
+      "república",
+      "revolução"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Sociedad",
+    "summary": "Igualdad, prejuicio, migración y diversidad.",
+    "body": [
+      "La igualdade es un principio. El preconceito lo rompe. La migração mueve a las personas y la minoria necesita voz propia.",
+      "La diversidade enriquece y la tolerância permite convivir. La cidadania reúne derechos y deberes. Son palabras muy parecidas al español, pero el sonido cambia."
+    ],
+    "pins": [
+      "igualdade",
+      "preconceito",
+      "migração",
+      "minoria",
+      "diversidade",
+      "tolerância",
+      "cidadania"
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Lengua y variación",
+    "summary": "Acento, dialecto, jerga y traducción.",
+    "body": [
+      "Cada región tiene su sotaque: el carioca, el paulista, el gaúcho, el nordestino. El dialeto y la gíria cambian de un lugar a otro.",
+      "El idioma oficial es el portugués. La tradução pasa un texto de una lengua a otra. El vocabulário se amplía leyendo y la gramática ordena todo."
+    ],
+    "pins": [
+      "sotaque",
+      "dialeto",
+      "gíria",
+      "idioma",
+      "tradução",
+      "vocabulário",
+      "gramática"
+    ],
+    "quiz": [
+      {
+        "prompt": "Sotaque es…",
+        "options": [
+          "acento al hablar",
+          "tipo de café",
+          "golpe",
+          "sombrero"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Gíria significa…",
+        "options": [
+          "jerga",
+          "regla",
+          "libro",
+          "cuaderno"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Tradução es…",
+        "options": [
+          "traducción",
+          "tradición",
+          "tráfico",
+          "trato"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Idioma es…",
+        "options": [
+          "idioma",
+          "ídolo",
+          "idiota",
+          "idea"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Gramática es…",
+        "options": [
+          "gramática",
+          "gramo",
+          "grama",
+          "gran"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Precisión y matices",
+    "summary": "Sutil, ambiguo, explícito, implícito.",
+    "body": [
+      "Un matiz es una diferencia leve. Lo sutil casi no se nota. Lo ambíguo admite dos lecturas. Lo explícito está dicho; lo implícito se entiende sin decirlo.",
+      "Preciso es «exacto» (no confundir con precisar) y vago es lo contrario. En un buen texto escrito, la precisión importa tanto como el estilo."
+    ],
+    "pins": [
+      "matiz",
+      "sutil",
+      "ambíguo",
+      "explícito",
+      "implícito",
+      "preciso",
+      "vago"
+    ]
+  }
+]

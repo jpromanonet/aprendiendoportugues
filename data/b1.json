@@ -1,0 +1,462 @@
+[
+  {
+    "number": 1,
+    "title": "Unir ideas",
+    "summary": "Entonces, mientras, sin embargo, quizás.",
+    "body": [
+      "Então concluye: estou cansado, então vou dormir. Enquanto superpone dos acciones: eu estudo enquanto você cozinha. Porém contrasta y es más formal que mas.",
+      "Aliás agrega algo que se acaba de acordar. Ainda indica que algo no cambió y já que algo ya pasó: ainda não terminei, já comi. Talvez abre la duda y pide subjuntivo: talvez eu vá. Logo es «pronto», assim es «así» y mesmo es «mismo» o «de verdad»."
+    ],
+    "pins": [
+      "então",
+      "enquanto",
+      "porém",
+      "aliás",
+      "ainda",
+      "já",
+      "talvez",
+      "logo",
+      "assim",
+      "mesmo"
+    ],
+    "quiz": [
+      {
+        "prompt": "Enquanto significa…",
+        "options": [
+          "mientras",
+          "nunca",
+          "debajo",
+          "juntos"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Ainda não terminei quiere decir…",
+        "options": [
+          "todavía no terminé",
+          "ya terminé",
+          "terminé ayer",
+          "nunca terminé"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Talvez expresa…",
+        "options": [
+          "duda; quizás",
+          "orden",
+          "gratitud",
+          "precio"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Porém equivale a…",
+        "options": [
+          "sin embargo",
+          "así que",
+          "mientras",
+          "después"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Logo puede significar…",
+        "options": [
+          "pronto",
+          "ayer",
+          "mucho",
+          "nunca"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "El viaje",
+    "summary": "Reserva, aduana, cambio y seguro.",
+    "body": [
+      "La viagem y la reserva se preparan antes. La hospedagem es el alojamiento. El guia acompaña, y la lembrança es lo que traés de regreso.",
+      "El câmbio cambia la moneda. Fronteira, embarque y alfândega son el cruce. El seguro cubre lo inesperado. Al viajar preguntá siempre cuánto sale el câmbio del día."
+    ],
+    "pins": [
+      "viagem",
+      "reserva",
+      "hospedagem",
+      "guia",
+      "lembrança",
+      "câmbio",
+      "fronteira",
+      "embarque",
+      "alfândega",
+      "seguro"
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Cuando algo falla",
+    "summary": "Falla, culpa, reclamo y reembolso.",
+    "body": [
+      "Un problema pide una solução. Resolver es el verbo que lo cierra. El defeito y el dano nombran el desperfecto.",
+      "La culpa no siempre es tuya. La reclamação y el reembolso se piden con paciência. Si es urgente, decilo claro: é urgente."
+    ],
+    "pins": [
+      "problema",
+      "solução",
+      "defeito",
+      "dano",
+      "culpa",
+      "reclamação",
+      "reembolso",
+      "urgente",
+      "paciência",
+      "resolver"
+    ],
+    "dialogue": [
+      {
+        "zh": "Boa tarde. Tenho um problema com o meu pedido.",
+        "py": "boa tardyi teñu un problema kon u meu pedyidu",
+        "es": "Buenas tardes. Tengo un problema con mi pedido."
+      },
+      {
+        "zh": "Qual é o problema?",
+        "py": "kuau é u problema",
+        "es": "¿Cuál es el problema?"
+      },
+      {
+        "zh": "O aparelho chegou com defeito. Quero o reembolso.",
+        "py": "u aparelyu shegou kon defeitu keru u jeembousu",
+        "es": "El aparato llegó con una falla. Quiero el reembolso."
+      },
+      {
+        "zh": "Desculpe. Vamos resolver isso hoje.",
+        "py": "deskulpi vamus jezouver isu oyi",
+        "es": "Disculpe. Lo vamos a resolver hoy."
+      },
+      {
+        "zh": "Obrigado pela paciência.",
+        "py": "obrigadu pela pasiensia",
+        "es": "Gracias por la paciencia."
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "El proyecto",
+    "summary": "Plazo, meta, equipo y resultado.",
+    "body": [
+      "Projeto, prazo y meta ordenan el trabajo. La equipe cumple, el cargo define el rol. La prioridade dice qué va primero.",
+      "El orçamento limita. Delegar alivia. El resultado cierra el ciclo y, si todo va bien, llega el aumento de sueldo."
+    ],
+    "pins": [
+      "projeto",
+      "prazo",
+      "meta",
+      "equipe",
+      "cargo",
+      "prioridade",
+      "resultado",
+      "orçamento",
+      "delegar",
+      "aumento"
+    ]
+  },
+  {
+    "number": 5,
+    "title": "En la cocina",
+    "summary": "Receta, alergia y los verbos del fuego.",
+    "body": [
+      "Receita, ingrediente y alergia evitan un mal plato. Forno, panela y frigideira son los utensilios.",
+      "Ferver, fritar y misturar son los gestos. El tempero es lo que da el sabor final. En Brasil no se dice «receta» solo para cocinar: también es la receta médica."
+    ],
+    "pins": [
+      "receita",
+      "ingrediente",
+      "alergia",
+      "forno",
+      "panela",
+      "frigideira",
+      "ferver",
+      "fritar",
+      "misturar",
+      "tempero"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Salud",
+    "summary": "Fiebre, turno, análisis e informe.",
+    "body": [
+      "Saúde se cuida. Febre y tosse son el aviso. El sintoma se cuenta en la consulta.",
+      "Si hace falta llega la ambulância o una internação. El exame y el laudo dan datos. La pressão es una de las primeras cosas que miden."
+    ],
+    "pins": [
+      "saúde",
+      "febre",
+      "tosse",
+      "consulta",
+      "sintoma",
+      "internação",
+      "ambulância",
+      "exame",
+      "laudo",
+      "pressão"
+    ],
+    "dialogue": [
+      {
+        "zh": "Bom dia, doutor. Estou com febre e tosse.",
+        "py": "bon dyia doutor estou kon febri i tosi",
+        "es": "Buen día, doctor. Tengo fiebre y tos."
+      },
+      {
+        "zh": "Há quanto tempo?",
+        "py": "á kuantu tempu",
+        "es": "¿Hace cuánto?"
+      },
+      {
+        "zh": "Há três dias.",
+        "py": "á tres dyias",
+        "es": "Hace tres días."
+      },
+      {
+        "zh": "Vou pedir um exame de sangue.",
+        "py": "vou pedyir un ezami dyi sangui",
+        "es": "Voy a pedir un análisis de sangre."
+      },
+      {
+        "zh": "Quando fica pronto o laudo?",
+        "py": "kuandu fika prontu u laudu",
+        "es": "¿Cuándo está listo el informe?"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "El ambiente",
+    "summary": "Basura, plástico y la crecida.",
+    "body": [
+      "Meio ambiente, poluição, reciclar y economizar arman la base. Lixo, plástico y vidro son el día a día.",
+      "Desperdício y energia se miden. La enchente es la inundación cuando llueve de más. Reciclar es separar y economizar es gastar menos."
+    ],
+    "pins": [
+      "meio ambiente",
+      "poluição",
+      "reciclar",
+      "economizar",
+      "lixo",
+      "plástico",
+      "vidro",
+      "desperdício",
+      "energia",
+      "enchente"
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Verbos de decisión",
+    "summary": "Esperar, parecer, lograr, olvidar.",
+    "body": [
+      "Esperar sirve para esperar algo y también para tener esperanza. Parecer opina. Virar cambia de estado: ele virou professor.",
+      "Conseguir logra. Esquecer pierde y lembrar recupera. Prometer ata. Escolher corta. Evitar esquiva. Aconselhar recomienda. Casi todos van con un infinitivo."
+    ],
+    "pins": [
+      "esperar",
+      "parecer",
+      "virar",
+      "conseguir",
+      "esquecer",
+      "lembrar",
+      "prometer",
+      "escolher",
+      "evitar",
+      "aconselhar"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Opiniones y acuerdos",
+    "summary": "Estoy de acuerdo, tenés razón, no coincido.",
+    "body": [
+      "La opinião se da con achar: eu acho que sim. Concordar y discordar marcan el acuerdo o el desacuerdo. Siempre llevan com: concordo com você.",
+      "Certo y errado juzgan. Verdade y mentira separan lo cierto de lo falso. Você tem razão es la forma más natural de dar la razón. Sugerir propone."
+    ],
+    "pins": [
+      "opinião",
+      "concordar",
+      "discordar",
+      "achar",
+      "certo",
+      "errado",
+      "verdade",
+      "mentira",
+      "razão",
+      "sugerir"
+    ],
+    "quiz": [
+      {
+        "prompt": "Você tem razão significa…",
+        "options": [
+          "tenés razón",
+          "estás cansado",
+          "vas tarde",
+          "tenés hambre"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Concordar es…",
+        "options": [
+          "estar de acuerdo",
+          "discutir",
+          "olvidar",
+          "viajar"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Eu acho que sim es…",
+        "options": [
+          "creo que sí",
+          "lo encontré",
+          "no sé",
+          "nunca"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Mentira es…",
+        "options": [
+          "mentira",
+          "verdad",
+          "razón",
+          "opinión"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Certo y errado son…",
+        "options": [
+          "correcto e incorrecto",
+          "caro y barato",
+          "frío y caliente",
+          "dulce y salado"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Medios y tecnología",
+    "summary": "Celular, contraseña, pantalla y archivos.",
+    "body": [
+      "Internet, celular y aplicativo son la vida diaria. La senha protege, la tela se rompe y la bateria se acaba.",
+      "Carregar es cargar el celular, y también llevar peso. Baixar es descargar. La rede sostiene todo y el arquivo se guarda. Fijate que en Brasil se dice celular y no móvil."
+    ],
+    "pins": [
+      "internet",
+      "celular",
+      "aplicativo",
+      "senha",
+      "tela",
+      "bateria",
+      "carregar",
+      "baixar",
+      "rede",
+      "arquivo"
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Cultura y fiestas",
+    "summary": "Carnaval, fútbol, asado y comparsas.",
+    "body": [
+      "El carnaval y el samba son marca de Brasil. El feriado se espera todo el año. La festa junina es la fiesta de junio con comidas típicas.",
+      "El futebol es pasión, y la torcida es la hinchada. El churrasco es el asado brasileño. La cachaça es el aguardiente con el que se hace la caipirinha. Un bloco es una comparsa callejera."
+    ],
+    "pins": [
+      "carnaval",
+      "festa",
+      "feriado",
+      "samba",
+      "futebol",
+      "churrasco",
+      "cachaça",
+      "torcida",
+      "bloco"
+    ],
+    "quiz": [
+      {
+        "prompt": "Churrasco es…",
+        "options": [
+          "asado",
+          "ensalada",
+          "postre",
+          "sopa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Torcida significa…",
+        "options": [
+          "hinchada",
+          "lluvia",
+          "boleto",
+          "queso"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "La cachaça se usa en…",
+        "options": [
+          "la caipirinha",
+          "el café",
+          "el jugo",
+          "el pan"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Feriado es…",
+        "options": [
+          "día no laborable",
+          "una fiesta privada",
+          "un viaje",
+          "un examen"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Bloco es…",
+        "options": [
+          "una comparsa",
+          "un edificio",
+          "una tarea",
+          "un mapa"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Educación",
+    "summary": "Curso, clase, examen y título.",
+    "body": [
+      "Curso, aula y matéria forman el estudio. La prova mide y la nota resume el resultado. En Brasil se usa de cero a diez.",
+      "La faculdade es la universidad. El professor enseña. El diploma llega al final, y se festeja con la formatura."
+    ],
+    "pins": [
+      "curso",
+      "aula",
+      "prova",
+      "nota",
+      "faculdade",
+      "professor",
+      "diploma",
+      "matéria",
+      "formatura"
+    ]
+  }
+]

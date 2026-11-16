@@ -1,0 +1,342 @@
+[
+  {
+    "number": 1,
+    "title": "Lusofonía",
+    "summary": "El portugués más allá de Brasil.",
+    "body": [
+      "La lusofonia reúne a los países que hablan portugués: Portugal, Brasil, Angola, Moçambique, Cabo Verde, Guiné-Bissau, São Tomé y Príncipe y Timor-Leste. Cada uno tiene su acento y su vocabulario.",
+      "Lisboa es la capital de Portugal. El português europeu pronuncia menos las vocales átonas y suena más cerrado, por eso el acento lusitano choca al oído brasileño. El crioulo es la lengua de Cabo Verde, basada en el portugués."
+    ],
+    "pins": [
+      "lusofonia",
+      "Portugal",
+      "Angola",
+      "Moçambique",
+      "Lisboa",
+      "crioulo",
+      "lusitano"
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Falsos amigos",
+    "summary": "Palabras que se parecen al español y engañan.",
+    "body": [
+      "El portuñol es la trampa de todo hispanohablante. Esquisito no es «exquisito», es «raro». Apelido es «apodo», no «apellido» (que es sobrenome). Borracha es la goma de borrar, no la que tomó de más.",
+      "Rato es el animal (rata o ratón) y, en um rato, también «un rato» de tiempo. Oficina es «taller». Largo es «ancho» y salsa es «perejil». Memorizalos en pares: así los controlás mejor."
+    ],
+    "pins": [
+      "esquisito",
+      "apelido",
+      "borracha",
+      "rato",
+      "oficina",
+      "largo",
+      "salsa"
+    ],
+    "quiz": [
+      {
+        "prompt": "Esquisito significa…",
+        "options": [
+          "raro",
+          "exquisito",
+          "exquisitamente",
+          "delicioso"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Apelido es…",
+        "options": [
+          "apodo",
+          "apellido",
+          "apellidos",
+          "apelación"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Largo es…",
+        "options": [
+          "ancho",
+          "largo",
+          "lejos",
+          "alto"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Oficina es…",
+        "options": [
+          "taller",
+          "oficina",
+          "escritorio",
+          "empresa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Salsa es…",
+        "options": [
+          "perejil",
+          "salsa",
+          "ají",
+          "ensalada"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Verbos engañosos",
+    "summary": "Pegar, puxar, apagar y los que no significan lo que creés.",
+    "body": [
+      "Pegar es «agarrar, tomar»: pegar o ônibus es tomar el colectivo. Puxar es «tirar» (hacia vos) y empurrar es «empujar»; en las puertas brasileñas vas a ver empurre y puxe. Cheirar es «oler».",
+      "Apagar sirve para apagar la luz y también para borrar un archivo. Tirar es «sacar, quitar»: tire o casaco. Largar es «soltar»: largue isso. Todos parecen verbos conocidos, pero cambian de sentido."
+    ],
+    "pins": [
+      "pegar",
+      "puxar",
+      "empurrar",
+      "cheirar",
+      "apagar",
+      "tirar",
+      "largar"
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Modismos",
+    "summary": "Expresiones que no se traducen palabra por palabra.",
+    "body": [
+      "Quebrar o galho es sacar a alguien de un apuro. Descascar o abacaxi es resolver un problema difícil, porque pelar una piña es una tarea áspera. Pagar o pato es pagar los platos rotos.",
+      "Ficar de olho es estar atento. Dar o braço a torcer es admitir que uno se equivocó. Engolir sapo es aguantarse algo desagradable. Tirar o time de campo es retirarse de un asunto."
+    ],
+    "pins": [
+      "quebrar o galho",
+      "descascar o abacaxi",
+      "pagar o pato",
+      "ficar de olho",
+      "dar o braço a torcer",
+      "engolir sapo",
+      "tirar o time de campo"
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Figuras del lenguaje",
+    "summary": "Eufemismo, hipérbole, elipsis y registros.",
+    "body": [
+      "Un eufemismo suaviza algo duro: falecer en vez de morrer. La hipérbole exagera y el pleonasmo repite: subir para cima. La elipse omite lo que se sobreentiende.",
+      "Cada registro tiene su palabra. Lo coloquial es el habla de todos los días. Lo culto es el habla elevada. Lo vulgar es el habla que se evita en contextos formales."
+    ],
+    "pins": [
+      "eufemismo",
+      "hipérbole",
+      "elipse",
+      "pleonasmo",
+      "coloquial",
+      "culto",
+      "vulgar"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Clásicos de la literatura",
+    "summary": "Realismo, romanticismo, modernismo y el canon.",
+    "body": [
+      "La literatura brasileña pasó por el romantismo, el realismo y el modernismo. Machado de Assis, el gran romancista del realismo, escribió novelas, cuentos y crônicas.",
+      "El cânone es la lista de obras que una cultura considera esenciales. Una antologia reúne textos de varios autores. La crônica es un texto breve y personal que sale en el diario."
+    ],
+    "pins": [
+      "realismo",
+      "romantismo",
+      "modernismo",
+      "crônica",
+      "cânone",
+      "romancista",
+      "antologia"
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Música de Brasil",
+    "summary": "Bossa nova, forró, sertanejo y la letra de una canción.",
+    "body": [
+      "La bossa nova nació en Río en los años cincuenta. El forró es el baile del nordeste. El sertanejo es hoy la música más escuchada en la radio brasileña.",
+      "Una canção tiene melodia, ritmo y letra. La palabra letra en música es «letra de la canción»: a letra fala de saudade."
+    ],
+    "pins": [
+      "bossa nova",
+      "forró",
+      "sertanejo",
+      "melodia",
+      "ritmo",
+      "letra",
+      "canção"
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Naturaleza",
+    "summary": "Amazonia, selva, cerrado y ecosistemas.",
+    "body": [
+      "La Amazônia es la mayor selva tropical del mundo. Un bioma es un gran ecosistema. El cerrado es la sabana brasileña, cada vez más amenazada.",
+      "La fauna y la flora describen a los animales y las plantas. El desmatamento es la deforestación y es uno de los grandes temas del país."
+    ],
+    "pins": [
+      "Amazônia",
+      "floresta",
+      "bioma",
+      "cerrado",
+      "fauna",
+      "flora",
+      "desmatamento"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Cortesía y tono",
+    "summary": "Educado, rude, gentil y franco.",
+    "body": [
+      "Educado en portugués es «bien criado, cortés»: ele é muito educado. No significa «con estudios». Rude es «grosero», gentil es «amable» y cortês es «cortés».",
+      "Sincero y franco se parecen, pero franco puede ser demasiado directo. Discreto es el que no llama la atención. Dominar el tono es parte del nivel C2."
+    ],
+    "pins": [
+      "educado",
+      "rude",
+      "gentil",
+      "sincero",
+      "franco",
+      "discreto",
+      "cortês"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Humor e ironía",
+    "summary": "Chistes, ironías y bromas.",
+    "body": [
+      "La piada es el chiste. El sarcasmo hiere con humor. El trocadilho es el juego de palabras. La gozação es la burla entre amigos y zoar es hacer bromas.",
+      "La brincadeira es la broma o el juego. Graça es «gracia»: não tem graça es «no tiene gracia». De graça significa «gratis»."
+    ],
+    "pins": [
+      "piada",
+      "sarcasmo",
+      "trocadilho",
+      "gozação",
+      "zoar",
+      "brincadeira",
+      "graça"
+    ],
+    "dialogue": [
+      {
+        "zh": "Você ouviu a piada do Pedro?",
+        "py": "vose ouviu a piada du pedru",
+        "es": "¿Escuchaste el chiste de Pedro?"
+      },
+      {
+        "zh": "Ouvi. Não tem graça nenhuma.",
+        "py": "ouvi nãu tein grasa neñuma",
+        "es": "Lo escuché. No tiene ninguna gracia."
+      },
+      {
+        "zh": "Foi só brincadeira!",
+        "py": "foi só brinkadeira",
+        "es": "¡Fue solo una broma!"
+      },
+      {
+        "zh": "Tá bom, mas eu não gosto de gozação.",
+        "py": "tá bon mas eu nãu gostu dyi gozasãu",
+        "es": "Está bien, pero no me gustan las cargadas."
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Alma brasileña",
+    "summary": "Palabras que no tienen traducción exacta.",
+    "body": [
+      "Cafuné es el gesto de pasar los dedos por el pelo de alguien con cariño. Jeitinho es la forma flexible de resolver algo. El malandro es el pícaro. El sertão es el interior seco del nordeste.",
+      "El caipira es el campesino del interior del sudeste, y su fiesta es la festa caipira. El mineiro es el de Minas Gerais, famoso por su hospitalidad y su comida."
+    ],
+    "pins": [
+      "cafuné",
+      "jeitinho",
+      "malandro",
+      "sertão",
+      "caipira",
+      "mineiro"
+    ],
+    "quiz": [
+      {
+        "prompt": "Cafuné es…",
+        "options": [
+          "una caricia en el pelo",
+          "un café",
+          "un perro",
+          "una fiesta"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Sertão es…",
+        "options": [
+          "el interior seco del nordeste",
+          "una playa",
+          "un barrio",
+          "un edificio"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Malandro es…",
+        "options": [
+          "pícaro",
+          "enfermo",
+          "mala suerte",
+          "mala persona siempre"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Mineiro es…",
+        "options": [
+          "de Minas Gerais",
+          "de São Paulo",
+          "de Río",
+          "de Bahía"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Jeitinho es…",
+        "options": [
+          "una forma flexible de resolver",
+          "una forma de bailar",
+          "un plato",
+          "un jugo"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Cierre del curso",
+    "summary": "Un último repaso y las palabras para seguir.",
+    "body": [
+      "Llegaste al final. Parabéns! Fue una longa jornada y una conquista que te abre puertas. El caminho sigue: ahora toca leer, escuchar y hablar con brasileños.",
+      "Avançar significa seguir adelante. Persistir es no rendirse. Con estas palabras y las que ya sumaste, tenés el nivel para vivir en portugués. Boa sorte!"
+    ],
+    "pins": [
+      "parabéns",
+      "conquista",
+      "jornada",
+      "caminho",
+      "avançar",
+      "persistir"
+    ]
+  }
+]

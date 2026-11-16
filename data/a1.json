@@ -1,0 +1,609 @@
+[
+  {
+    "number": 1,
+    "title": "Sonidos del portugués",
+    "summary": "Vocales nasales, lh, nh, ç, ch y la t y la d que se suavizan.",
+    "body": [
+      "El portugués se escribe casi como se lee, pero tiene sonidos que el español no tiene. Las vocales nasales llevan tilde: pão, mãe, limão, coração. No pronuncies una «n» completa: dejá salir el aire también por la nariz.",
+      "Lh suena como una «ly»: filho. Nh es nuestra ñ: manhã. La ç suena como una s: abraço. Ch suena como la «sh» rioplatense de «calle»: chuva. La j y la g delante de e o i suenan como la «y» de «yo». La r inicial y la rr suenan como una j española: Rio, carro.",
+      "En casi todo Brasil, la t y la d delante de i (o de una e final) se suavizan: dia suena «dyia» y noite suena «noichi». La l al final de sílaba suena como una u: Brasil es «braziu».",
+      "Las vocales e y o pueden ser abiertas (é, ó) o cerradas (ê, ô). Avó, con ó abierta, es la abuela; avô, con ô cerrada, es el abuelo. La o final sin acento suena casi u, y la e final suena casi i: obrigado es «obrigadu».",
+      "En este curso la guía de pronunciación usa estas marcas: y = «y» de «yo», j = j española, sh = «sh» rioplatense, ch = «ch» de «chico», dy = d suave delante de i, ly = lh, ñ = nh y z = s entre vocales."
+    ],
+    "pins": [
+      "pão",
+      "mãe",
+      "limão",
+      "coração",
+      "filho",
+      "manhã",
+      "abraço",
+      "chuva",
+      "dia",
+      "noite",
+      "Brasil",
+      "avó",
+      "avô"
+    ],
+    "quiz": [
+      {
+        "prompt": "¿Cómo suena la «lh» de filho?",
+        "options": [
+          "Como una «ly»",
+          "Como una «k»",
+          "Como una «s»",
+          "Como una «u»"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué marca la tilde en pão?",
+        "options": [
+          "Que la vocal es nasal",
+          "Que es una pregunta",
+          "Que la sílaba no se lee",
+          "Que la palabra es plural"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Brasil suena casi como…",
+        "options": [
+          "braziu",
+          "brasir",
+          "brasik",
+          "brasich"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué diferencia a avó de avô?",
+        "options": [
+          "La vocal abierta (abuela) y la cerrada (abuelo)",
+          "Que una es plural",
+          "Que una es de usted",
+          "Nada, son iguales"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "La ç de abraço suena como…",
+        "options": [
+          "una s",
+          "una k",
+          "una ch",
+          "una j"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Saludos",
+    "summary": "Oi, olá, gracias, perdón y los saludos del día.",
+    "body": [
+      "Oi es el saludo de todos los días, con cualquiera. Olá es un poco más formal. Bom dia se usa hasta el mediodía, boa tarde hasta que anochece y boa noite sirve para saludar de noche y también para despedirse.",
+      "Tchau y até logo cierran la charla. Obrigado lo dice un hombre y obrigada lo dice una mujer: concuerda con quien habla. Se responde con de nada.",
+      "Por favor acompaña cada pedido. Desculpa es para pedir perdón con confianza. Com licença es el «permiso» para pasar o para interrumpir. Tudo bem es a la vez pregunta y respuesta: «¿todo bien?» «todo bien»."
+    ],
+    "pins": [
+      "oi",
+      "olá",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "tchau",
+      "até logo",
+      "obrigado",
+      "de nada",
+      "por favor",
+      "desculpa",
+      "com licença",
+      "tudo bem"
+    ],
+    "dialogue": [
+      {
+        "zh": "Oi, bom dia! Tudo bem?",
+        "py": "oi bon dyia tudu bein",
+        "es": "¡Hola, buen día! ¿Todo bien?"
+      },
+      {
+        "zh": "Tudo bem, e você?",
+        "py": "tudu bein i vose",
+        "es": "Todo bien, ¿y vos?"
+      },
+      {
+        "zh": "Tudo ótimo, obrigado.",
+        "py": "tudu óchimu obrigadu",
+        "es": "Todo excelente, gracias."
+      },
+      {
+        "zh": "Com licença, preciso ir. Tchau!",
+        "py": "kon lisensa presizu ir chau",
+        "es": "Permiso, tengo que irme. ¡Chau!"
+      },
+      {
+        "zh": "Até logo!",
+        "py": "até logu",
+        "es": "¡Hasta luego!"
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "¿Cómo saludás con confianza?",
+        "options": [
+          "Oi",
+          "Conta",
+          "Passagem",
+          "Cardápio"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué se responde a obrigado?",
+        "options": [
+          "De nada",
+          "Tudo bem, sim",
+          "Boa noite",
+          "Pão"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Com licença se usa para…",
+        "options": [
+          "pedir permiso o pasar",
+          "pedir la cuenta",
+          "decir el nombre",
+          "contar hasta diez"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Una mujer agradece diciendo…",
+        "options": [
+          "obrigada",
+          "obrigado",
+          "desculpa",
+          "tchau"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Até logo significa…",
+        "options": [
+          "hasta luego",
+          "por favor",
+          "tengo frío",
+          "a la izquierda"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Presentarse",
+    "summary": "Yo, vos, él y las primeras frases con ser y chamar.",
+    "body": [
+      "Eu, você, ele, ela, nós, eles son los pronombres que más vas a usar. En Brasil você sirve tanto para «vos» como para «usted». Vocês es «ustedes». El «vos» argentino no existe en Brasil, así que decí você.",
+      "Ser en presente: eu sou, você é, ele é, nós somos, eles são. Eu sou argentino. Ela é professora. Para decir cómo te llamás se usa chamar: eu me chamo Lucas.",
+      "Qual é o seu nome? pregunta el nombre. Onde você mora? pregunta dónde vivís. Eu moro em Buenos Aires. Falo espanhol e um pouco de português."
+    ],
+    "pins": [
+      "eu",
+      "você",
+      "ele",
+      "ela",
+      "nós",
+      "eles",
+      "ser",
+      "chamar",
+      "nome",
+      "onde",
+      "morar",
+      "português",
+      "espanhol"
+    ],
+    "dialogue": [
+      {
+        "zh": "Oi, eu sou o Lucas. E você?",
+        "py": "oi eu sou u lukas i vose",
+        "es": "Hola, yo soy Lucas. ¿Y vos?"
+      },
+      {
+        "zh": "Eu me chamo Ana. Muito prazer.",
+        "py": "eu mi shamu ana muitu prazer",
+        "es": "Me llamo Ana. Mucho gusto."
+      },
+      {
+        "zh": "De onde você é?",
+        "py": "dyi ondyi vose é",
+        "es": "¿De dónde sos?"
+      },
+      {
+        "zh": "Sou argentina. Moro em Buenos Aires.",
+        "py": "sou aryenchina moru ein buenus airis",
+        "es": "Soy argentina. Vivo en Buenos Aires."
+      },
+      {
+        "zh": "Você fala português?",
+        "py": "vose fala portugues",
+        "es": "¿Hablás portugués?"
+      },
+      {
+        "zh": "Falo um pouco. Estou estudando.",
+        "py": "falu un pouku estou estudandu",
+        "es": "Hablo un poco. Estoy estudiando."
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Números",
+    "summary": "Del uno al diez, las decenas útiles y las horas.",
+    "body": [
+      "Um y dois cambian de género: um café, uma pizza, dois cafés, duas pizzas. Del tres al diez no cambian: três, quatro, cinco, seis, sete, oito, nove, dez.",
+      "Vinte, cem y mil cubren las cantidades del día. Cem se usa para cien justo; si hay algo más, es cento: cento e dez. La moneda es el real, plural reais, y se dice quanto custa para preguntar el precio.",
+      "Para la hora se dice são três horas, são seis horas. Con la una se dice é uma hora. Que horas são? pregunta la hora. Un detalle curioso: al dictar un teléfono, muchos brasileños dicen «meia» para el seis."
+    ],
+    "pins": [
+      "um",
+      "dois",
+      "três",
+      "quatro",
+      "cinco",
+      "seis",
+      "sete",
+      "oito",
+      "nove",
+      "dez",
+      "vinte",
+      "cem",
+      "mil"
+    ]
+  },
+  {
+    "number": 5,
+    "title": "La familia",
+    "summary": "Madre, padre, hermanos y los posesivos meu y minha.",
+    "body": [
+      "Família junta a todos. Mãe y pai, irmão e irmã, filho e filha, avô e avó, tio e tia, marido e esposa, criança. Amigo y amiga son los de confianza; primo, el de la familia grande.",
+      "El posesivo concuerda con lo que se posee, no con quien habla: meu pai, minha mãe, meus irmãos, minhas irmãs. En portugués se usa casi siempre el artículo: a minha mãe, o meu pai.",
+      "Para contar cuántos son se dice eu tenho um irmão y eu tenho duas irmãs. Tenho viene de ter, que ya vas a ver en una clase siguiente."
+    ],
+    "pins": [
+      "família",
+      "pai",
+      "irmão",
+      "irmã",
+      "filha",
+      "tio",
+      "tia",
+      "marido",
+      "esposa",
+      "criança",
+      "amigo",
+      "amiga",
+      "primo",
+      "mãe",
+      "filho",
+      "avó",
+      "avô"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Comer y beber",
+    "summary": "Arroz, porotos, carne y lo que pedís en la mesa.",
+    "body": [
+      "En Brasil el plato de todos los días es arroz e feijão. El feijão son los porotos negros. Se acompaña con carne, frango o peixe, y de postre, fruta.",
+      "Para tomar: água, suco, leite y café. Suco es el jugo de fruta. Café en Brasil es chico y fuerte, a menos que pidas café com leite.",
+      "Comer y beber son los dos verbos de la mesa. Eu como pão. Eu bebo água. El queijo se come en pão de queijo, una masa de queso muy típica. Beber también es «tomar»: eu tomo café."
+    ],
+    "pins": [
+      "água",
+      "arroz",
+      "feijão",
+      "carne",
+      "frango",
+      "peixe",
+      "queijo",
+      "leite",
+      "café",
+      "suco",
+      "fruta",
+      "comer",
+      "beber"
+    ]
+  },
+  {
+    "number": 7,
+    "title": "En el restaurante",
+    "summary": "Menú, cuenta, precios y el verbo querer.",
+    "body": [
+      "Al llegar a un restaurante se pide o cardápio. El garçom lo trae. Querer sirve para pedir: eu quero um suco. Más cortés: eu queria um suco, queria uma água.",
+      "Gostoso es rico, sabroso, y se usa para la comida: o bolo está gostoso. Quanto custa pregunta el precio. Caro y barato dan la opinión sobre ese precio.",
+      "Para cerrar se pide a conta. Pagar, comprar y dinheiro son el resto del vocabulario del gasto. Se paga en reais; el real se divide en centavos. Muchos lugares aceptan cartão y pix."
+    ],
+    "pins": [
+      "restaurante",
+      "cardápio",
+      "conta",
+      "garçom",
+      "quanto",
+      "caro",
+      "barato",
+      "real",
+      "dinheiro",
+      "comprar",
+      "pagar",
+      "gostoso",
+      "querer"
+    ],
+    "dialogue": [
+      {
+        "zh": "Boa noite. O cardápio, por favor.",
+        "py": "boa noichi u kardápiu por favor",
+        "es": "Buenas noches. El menú, por favor."
+      },
+      {
+        "zh": "Claro. O que você quer beber?",
+        "py": "klaru u ki vose ker beber",
+        "es": "Claro. ¿Qué querés tomar?"
+      },
+      {
+        "zh": "Um suco de laranja e uma água.",
+        "py": "un suku dyi laranya i uma água",
+        "es": "Un jugo de naranja y un agua."
+      },
+      {
+        "zh": "E para comer?",
+        "py": "i para komer",
+        "es": "¿Y para comer?"
+      },
+      {
+        "zh": "Frango com arroz e feijão.",
+        "py": "frangu kon ajos i feiyãu",
+        "es": "Pollo con arroz y porotos."
+      },
+      {
+        "zh": "A conta, por favor. Quanto é?",
+        "py": "a konta por favor kuantu é",
+        "es": "La cuenta, por favor. ¿Cuánto es?"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Días y horas",
+    "summary": "Hoy, mañana, ayer y los días de la semana.",
+    "body": [
+      "Hoje es hoy, amanhã es mañana (el día siguiente) y ontem es ayer. De manhã, de tarde y de noite dicen la parte del día.",
+      "Los días de la semana en el habla común se acortan: segunda, terça, quarta, quinta, sexta. Se agrega -feira en lo formal: segunda-feira. Sábado y domingo no llevan -feira. No se escriben con mayúscula.",
+      "Semana y hora cierran la clase. Que horas são? pregunta la hora. A que horas pregunta a qué hora pasa algo: o ônibus sai às oito."
+    ],
+    "pins": [
+      "hoje",
+      "amanhã",
+      "ontem",
+      "segunda",
+      "terça",
+      "quarta",
+      "quinta",
+      "sexta",
+      "sábado",
+      "domingo",
+      "semana",
+      "hora",
+      "tarde"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "En la ciudad",
+    "summary": "Calles, colectivos, boletos y cómo preguntar dónde queda algo.",
+    "body": [
+      "Rua es la calle y praça es la plaza. A estação es la estación. El ônibus es el colectivo; el trem, el tren. La passagem es el boleto.",
+      "Para orientarte: esquerda y direita, aqui y ali, perto y longe. Vire à esquerda es «doblá a la izquierda». Onde fica...? pregunta dónde queda algo.",
+      "Ir es el verbo del movimiento: eu vou, você vai, nós vamos, eles vão. Vou para casa. Vou de ônibus. Vamos? es la invitación más corta."
+    ],
+    "pins": [
+      "rua",
+      "praça",
+      "estação",
+      "ônibus",
+      "trem",
+      "passagem",
+      "esquerda",
+      "direita",
+      "aqui",
+      "ali",
+      "perto",
+      "longe",
+      "ir"
+    ],
+    "dialogue": [
+      {
+        "zh": "Com licença, onde fica a estação?",
+        "py": "kon lisensa ondyi fika a estasãu",
+        "es": "Permiso, ¿dónde queda la estación?"
+      },
+      {
+        "zh": "Fica perto. Vire à direita.",
+        "py": "fika pértu viri a dyireita",
+        "es": "Queda cerca. Doblá a la derecha."
+      },
+      {
+        "zh": "É longe daqui?",
+        "py": "é lonyi daki",
+        "es": "¿Queda lejos de acá?"
+      },
+      {
+        "zh": "Não, é só uma rua.",
+        "py": "nãu é só uma jua",
+        "es": "No, es solo una calle."
+      },
+      {
+        "zh": "Obrigado! Tchau.",
+        "py": "obrigadu chau",
+        "es": "¡Gracias! Chau."
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Colores y adjetivos",
+    "summary": "Vermelho, azul, grande, pequeno y cómo concuerdan.",
+    "body": [
+      "Los adjetivos van después del sustantivo y concuerdan: carro vermelho, casa vermelha. Los que terminan en -e no cambian: cidade grande, carro grande.",
+      "Vermelho, verde, branco, preto, azul y amarelo son los colores básicos. Preto es negro: café preto, feijão preto.",
+      "Grande y pequeno miden el tamaño. Bonito es lindo. Novo y velho dicen la edad, y quente y frio, la temperatura: o café está quente. Hoje faz frio."
+    ],
+    "pins": [
+      "vermelho",
+      "verde",
+      "branco",
+      "preto",
+      "azul",
+      "amarelo",
+      "grande",
+      "pequeno",
+      "bonito",
+      "novo",
+      "velho",
+      "quente",
+      "frio"
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Verbos básicos",
+    "summary": "Estar, ter, fazer, poder y los verbos para sobrevivir.",
+    "body": [
+      "Estar dice cómo o dónde estás ahora: eu estou em casa, ela está feliz. Ser es para lo permanente: eu sou argentino. Esa diferencia se parece a la del español.",
+      "Ter es tener: eu tenho, você tem, nós temos. Con ter se dice la edad, el hambre, el frío: tenho fome, tenho frio. Fazer es hacer: o que você faz? Poder y precisar van con otro verbo: posso entrar? Preciso estudar.",
+      "Falar, entender, saber, ver, vir, gostar, trabalhar y estudar completan el kit. Gostar lleva de: eu gosto de café. Vir es venir: você vem amanhã?"
+    ],
+    "pins": [
+      "estar",
+      "ter",
+      "fazer",
+      "poder",
+      "precisar",
+      "falar",
+      "entender",
+      "saber",
+      "ver",
+      "vir",
+      "gostar",
+      "trabalhar",
+      "estudar"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Casa y salidas",
+    "summary": "Casa, ciudad, mascotas, clima y planes juntos.",
+    "body": [
+      "Casa, cozinha, quarto y banheiro nombran la vivienda. Cidade es la ciudad. Gato y cachorro son las mascotas. Sim y não son las dos respuestas más cortas.",
+      "El clima: tempo es tanto «tiempo» como «clima». Que tempo faz? pregunta cómo está el día. Faz sol, faz calor, faz frio, vai chover.",
+      "Para proponer un plan se dice vamos ao cinema? y se responde vamos! o não posso. Juntos es «juntos» y siempre en plural."
+    ],
+    "pins": [
+      "casa",
+      "cidade",
+      "cozinha",
+      "quarto",
+      "banheiro",
+      "sim",
+      "não",
+      "gato",
+      "cachorro",
+      "tempo",
+      "chover",
+      "cinema",
+      "juntos"
+    ],
+    "dialogue": [
+      {
+        "zh": "Vamos ao cinema hoje?",
+        "py": "vamus au sinema oyi",
+        "es": "¿Vamos al cine hoy?"
+      },
+      {
+        "zh": "Hoje não posso. Vai chover.",
+        "py": "oyi nãu posu vai shover",
+        "es": "Hoy no puedo. Va a llover."
+      },
+      {
+        "zh": "Então vamos amanhã?",
+        "py": "entãu vamus amañã",
+        "es": "¿Entonces vamos mañana?"
+      },
+      {
+        "zh": "Amanhã eu posso. A que horas?",
+        "py": "amañã eu posu a ki oras",
+        "es": "Mañana puedo. ¿A qué hora?"
+      },
+      {
+        "zh": "Às oito. Vamos juntos de ônibus.",
+        "py": "as oitu vamus yuntus dyi onibus",
+        "es": "A las ocho. Vamos juntos en colectivo."
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "Vai chover significa…",
+        "options": [
+          "va a llover",
+          "hace sol",
+          "hay viento",
+          "es de noche"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Vamos ao cinema é…",
+        "options": [
+          "vamos al cine",
+          "pago la cuenta",
+          "me llamo Lucas",
+          "a la izquierda"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Juntos quiere decir…",
+        "options": [
+          "juntos",
+          "lejos",
+          "caro",
+          "ayer"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Que tempo faz? pregunta por…",
+        "options": [
+          "el clima",
+          "el precio",
+          "el nombre",
+          "la hora"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Cachorro es…",
+        "options": [
+          "perro",
+          "lluvia",
+          "boleto",
+          "queso"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+]

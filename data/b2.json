@@ -1,0 +1,448 @@
+[
+  {
+    "number": 1,
+    "title": "Argumentar",
+    "summary": "Defender, criticar, probar y concluir.",
+    "body": [
+      "Un argumento se defiende y se critica. Para sostenerlo hace falta provar con evidência. Una hipótese todavía no está probada.",
+      "Una contradição debilita la posición. Concluir cierra el razonamiento. Do meu ponto de vista abre una opinión personal y suena natural en el debate."
+    ],
+    "pins": [
+      "argumento",
+      "defender",
+      "criticar",
+      "provar",
+      "concluir",
+      "hipótese",
+      "evidência",
+      "contradição",
+      "ponto de vista"
+    ],
+    "quiz": [
+      {
+        "prompt": "Provar significa…",
+        "options": [
+          "probar; demostrar",
+          "perder",
+          "pagar",
+          "pedir"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Una hipótese es…",
+        "options": [
+          "una suposición sin probar",
+          "un precio",
+          "una fiesta",
+          "una ruta"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Do meu ponto de vista es…",
+        "options": [
+          "desde mi punto de vista",
+          "a mi derecha",
+          "por mi culpa",
+          "en mi casa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Concluir es…",
+        "options": [
+          "cerrar un razonamiento",
+          "empezar un viaje",
+          "pedir un préstamo",
+          "bajar un archivo"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Evidência es…",
+        "options": [
+          "evidencia",
+          "paciencia",
+          "inflación",
+          "ingrediente"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Economía",
+    "summary": "Inflación, impuestos, préstamos e inversión.",
+    "body": [
+      "La economia crece o entra en crise. La inflação sube los precios y el imposto sale del bolsillo de todos.",
+      "Un empréstimo se paga con juros. Quien tiene una dívida debe plata. Investir implica un riesgo, y el lucro es la ganancia. En Brasil juros es siempre plural."
+    ],
+    "pins": [
+      "economia",
+      "inflação",
+      "imposto",
+      "empréstimo",
+      "juros",
+      "investir",
+      "lucro",
+      "dívida",
+      "crise"
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Política y ciudadanía",
+    "summary": "Gobierno, elección, ley y derechos.",
+    "body": [
+      "El governo propone y la lei se aprueba. La eleição se vota con un voto, que en Brasil es obligatorio. Un candidato pertenece a un partido.",
+      "El cidadão tiene direitos y deveres. El prefeito es el intendente de la ciudad. Direito es «derecho» y también «recto», como en ir direto."
+    ],
+    "pins": [
+      "governo",
+      "eleição",
+      "voto",
+      "candidato",
+      "partido",
+      "lei",
+      "direito",
+      "cidadão",
+      "prefeito"
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Trabajo y carrera",
+    "summary": "Currículum, entrevista, vacante y jubilación.",
+    "body": [
+      "Una carreira empieza con un currículo y una entrevista. Hay una vaga y alguien se contrata, o se demite.",
+      "La experiência cuenta y cada puesto trae un desafio. Al final de la vida laboral llega la aposentadoria. Fijate que contratar y demitir son verbos del que decide."
+    ],
+    "pins": [
+      "carreira",
+      "currículo",
+      "entrevista",
+      "vaga",
+      "contratar",
+      "demitir",
+      "experiência",
+      "desafio",
+      "aposentadoria"
+    ],
+    "dialogue": [
+      {
+        "zh": "Boa tarde. Vim para a entrevista da vaga.",
+        "py": "boa tardyi vin para a entrevista da vaga",
+        "es": "Buenas tardes. Vine para la entrevista por la vacante."
+      },
+      {
+        "zh": "Boa tarde. Você trouxe o currículo?",
+        "py": "boa tardyi vose trosi u kujíkulu",
+        "es": "Buenas tardes. ¿Trajiste el currículum?"
+      },
+      {
+        "zh": "Trouxe. Tenho cinco anos de experiência.",
+        "py": "trosi teñu sinku anus dyi esperiensia",
+        "es": "Lo traje. Tengo cinco años de experiencia."
+      },
+      {
+        "zh": "Ótimo. Qual é o maior desafio da sua carreira?",
+        "py": "óchimu kuau é u maior dezafiu da sua kajeira",
+        "es": "Excelente. ¿Cuál es el mayor desafío de tu carrera?"
+      },
+      {
+        "zh": "Liderar uma equipe nova.",
+        "py": "liderar uma ekipi nóva",
+        "es": "Liderar un equipo nuevo."
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Ciencia y tecnología",
+    "summary": "Investigación, descubrimientos y datos.",
+    "body": [
+      "La ciência avanza con pesquisa. Una descoberta cambia lo que se sabe y la inovação lleva ese conocimiento a la vida diaria.",
+      "El cientista diseña un experimento y junta dados. El algoritmo procesa esos datos. Pesquisa también significa «encuesta». Según el contexto vas a entender cuál."
+    ],
+    "pins": [
+      "ciência",
+      "pesquisa",
+      "descoberta",
+      "inovação",
+      "tecnologia",
+      "cientista",
+      "experimento",
+      "dados",
+      "algoritmo"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Salud y bienestar",
+    "summary": "Sueño, estrés, ejercicio y hábitos.",
+    "body": [
+      "El bem-estar depende de varios factores: sono, dieta y exercício. El estresse y la ansiedade lo afectan.",
+      "La terapia ayuda. Descansar también. Un buen hábito se construye de a poco. Estresse se escribe con doble s y una e final: es la forma portuguesa de «estrés»."
+    ],
+    "pins": [
+      "bem-estar",
+      "sono",
+      "estresse",
+      "dieta",
+      "exercício",
+      "ansiedade",
+      "terapia",
+      "descansar",
+      "hábito"
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Medios y redes",
+    "summary": "Noticias, titulares, seguidores y rumores.",
+    "body": [
+      "La notícia sale en el jornal, en una reportagem o en una manchete. La mídia reúne a todos esos canales.",
+      "En las redes se ganan seguidores, se curte y se compartilha. Pero cuidado con el boato, el rumor que corre más rápido que la verdad."
+    ],
+    "pins": [
+      "notícia",
+      "jornal",
+      "reportagem",
+      "manchete",
+      "seguidor",
+      "curtir",
+      "compartilhar",
+      "boato",
+      "mídia"
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Arte y literatura",
+    "summary": "Novela, poema, pintura y teatro.",
+    "body": [
+      "El romance es una novela larga. El poema es verso. El autor escribe y el leitor lee. El estilo es la huella de cada uno.",
+      "La pintura se muestra en una exposição. El teatro es la obra en vivo. La palabra obra sirve tanto para una obra de arte como para una construcción."
+    ],
+    "pins": [
+      "romance",
+      "poema",
+      "autor",
+      "leitor",
+      "pintura",
+      "exposição",
+      "teatro",
+      "obra",
+      "estilo"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Emociones",
+    "summary": "Saudade, celos, orgullo y alegría.",
+    "body": [
+      "Saudade es la palabra más famosa del portugués: una mezcla de añoranza y nostalgia. Se usa con ter: tenho saudade de você.",
+      "Ciúme, confiança, vergonha, orgulho, alegria, tristeza y raiva completan el repertorio emocional. Con raiva se usa ficar: fiquei com raiva."
+    ],
+    "pins": [
+      "saudade",
+      "ciúme",
+      "confiança",
+      "vergonha",
+      "orgulho",
+      "alegria",
+      "tristeza",
+      "raiva"
+    ],
+    "quiz": [
+      {
+        "prompt": "Saudade es…",
+        "options": [
+          "añoranza",
+          "enojo",
+          "vergüenza",
+          "orgullo"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Tenho saudade de você significa…",
+        "options": [
+          "te extraño",
+          "te debo",
+          "te escucho",
+          "te llamo"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Raiva es…",
+        "options": [
+          "enojo",
+          "alegría",
+          "celos",
+          "confianza"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Vergonha es…",
+        "options": [
+          "vergüenza",
+          "confianza",
+          "tristeza",
+          "paciencia"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Orgulho es…",
+        "options": [
+          "orgullo",
+          "orden",
+          "oficio",
+          "olvido"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Sociedad y ciudad",
+    "summary": "Tránsito, vivienda, seguridad y población.",
+    "body": [
+      "La sociedade cambia y la desigualdade preocupa. El trânsito de las grandes ciudades es famoso. La moradia y la segurança son derechos básicos.",
+      "Una comunidade se organiza. La população crece. El saneamento es el agua potable y las cloacas. Son temas que vas a leer todo el tiempo en el diario."
+    ],
+    "pins": [
+      "sociedade",
+      "desigualdade",
+      "trânsito",
+      "moradia",
+      "segurança",
+      "comunidade",
+      "população",
+      "saneamento"
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Expresiones y jerga",
+    "summary": "Legal, beleza, valeu: el portugués de todos los días.",
+    "body": [
+      "Legal es «bueno, genial» y no tiene nada que ver con lo legal de la ley. Beleza es un «dale» o un «todo bien». Valeu es el «gracias» de confianza.",
+      "Cara es «tipo» o «che». Bacana es «copado». Pois é admite que el otro tiene razón. Tá es la forma corta de está bom. Dar um jeito es arreglarse como se pueda."
+    ],
+    "pins": [
+      "legal",
+      "beleza",
+      "valeu",
+      "cara",
+      "bacana",
+      "pois é",
+      "tá",
+      "jeito"
+    ],
+    "dialogue": [
+      {
+        "zh": "Cara, você viu o jogo ontem?",
+        "py": "kara vose viu u yogu ontein",
+        "es": "Che, ¿viste el partido ayer?"
+      },
+      {
+        "zh": "Vi sim! Foi muito legal.",
+        "py": "vi sin foi muitu legau",
+        "es": "¡Lo vi! Estuvo muy bueno."
+      },
+      {
+        "zh": "Vamos assistir o próximo juntos?",
+        "py": "vamus asischir u prósimu yuntus",
+        "es": "¿Vemos el próximo juntos?"
+      },
+      {
+        "zh": "Beleza! Eu dou um jeito de sair cedo.",
+        "py": "beleza eu dou un yeitu dyi sair sedu",
+        "es": "¡Dale! Me las arreglo para salir temprano."
+      },
+      {
+        "zh": "Valeu!",
+        "py": "valeu",
+        "es": "¡Gracias!"
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "Valeu equivale a…",
+        "options": [
+          "gracias (informal)",
+          "perdón",
+          "hasta luego",
+          "por favor"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Beleza significa…",
+        "options": [
+          "dale; todo bien",
+          "tristeza",
+          "cuenta",
+          "mapa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Legal en la calle significa…",
+        "options": [
+          "genial",
+          "ilegal",
+          "legal (de la ley)",
+          "caro"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Tá bom es…",
+        "options": [
+          "está bien",
+          "tengo hambre",
+          "hay frío",
+          "me duele"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Jeito es…",
+        "options": [
+          "manera",
+          "jefe",
+          "juego",
+          "jugo"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Registro formal e informal",
+    "summary": "Señor, señora, estimado y cómo cerrar un correo.",
+    "body": [
+      "Para dirigirte con respeto usás o senhor o a senhora: o senhor aceita café? En el correo formal se abre con prezado y se cierra con atenciosamente.",
+      "El tono puede ser formal o informal. El tratamento y la gentileza dependen del contexto. Con amigos se usa você y, en algunas regiones, tu; en el trabajo, você con más cortesía, o senhor y senhora."
+    ],
+    "pins": [
+      "senhor",
+      "senhora",
+      "prezado",
+      "atenciosamente",
+      "formal",
+      "informal",
+      "tratamento",
+      "gentileza"
+    ]
+  }
+]

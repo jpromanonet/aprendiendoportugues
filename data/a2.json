@@ -1,0 +1,467 @@
+[
+  {
+    "number": 1,
+    "title": "La casa",
+    "summary": "Living, muebles, llaves y el alquiler.",
+    "body": [
+      "En A1 viste casa, cozinha y quarto. Acá entrás: sala es el living, sofá el sillón, mesa y cadeira lo que usás para comer, cama donde dormís, armário el placard y geladeira la heladera.",
+      "El fogão es la cocina con hornallas. Janela y porta se abren y se cierran: abra a janela, feche a porta. Chave abre la puerta. En Brasil el alquiler se paga todos los meses: o aluguel vence no dia cinco."
+    ],
+    "pins": [
+      "sala",
+      "sofá",
+      "mesa",
+      "cadeira",
+      "cama",
+      "armário",
+      "geladeira",
+      "fogão",
+      "janela",
+      "porta",
+      "chave",
+      "aluguel"
+    ]
+  },
+  {
+    "number": 2,
+    "title": "El edificio y el barrio",
+    "summary": "Piso, ascensor, expensas y el ruido de los vecinos.",
+    "body": [
+      "Un prédio tiene andares, elevador, varanda e interfone. Andar significa piso, y también caminar: moro no terceiro andar, gosto de andar.",
+      "O vizinho vive al lado. O síndico administra el edificio y el condomínio son las expensas. Si algo se rompe hace falta un conserto. El barulho molesta y un bairro silencioso se valora."
+    ],
+    "pins": [
+      "prédio",
+      "andar",
+      "elevador",
+      "vizinho",
+      "condomínio",
+      "síndico",
+      "varanda",
+      "interfone",
+      "barulho",
+      "silencioso",
+      "conserto",
+      "bairro"
+    ]
+  },
+  {
+    "number": 3,
+    "title": "La rutina",
+    "summary": "Del despertador a la cena, con siempre, nunca y a veces.",
+    "body": [
+      "O despertador abre el día. Acordar es despertarse. Se toma banho, se toma café da manhã y más tarde viene el almoço. Por la noche se janta.",
+      "Cedo y depois ubican el momento. Sempre, nunca y às vezes miden la frecuencia: eu sempre tomo café, eu nunca como carne, às vezes eu caminho. La palabra rotina resume todo.",
+      "Fijate que en portugués los verbos de rutina van en presente: eu acordo, você acorda, nós acordamos. Para el almuerzo se usa a la hora: o almoço é ao meio-dia."
+    ],
+    "pins": [
+      "despertador",
+      "acordar",
+      "café da manhã",
+      "almoço",
+      "jantar",
+      "banho",
+      "cedo",
+      "depois",
+      "sempre",
+      "nunca",
+      "às vezes",
+      "rotina"
+    ],
+    "dialogue": [
+      {
+        "zh": "A que horas você acorda?",
+        "py": "a ki oras vose akorda",
+        "es": "¿A qué hora te despertás?"
+      },
+      {
+        "zh": "Eu acordo às seis. E você?",
+        "py": "eu akordu as seis i vose",
+        "es": "Me despierto a las seis. ¿Y vos?"
+      },
+      {
+        "zh": "Eu sempre acordo cedo, mas nunca tomo café da manhã.",
+        "py": "eu sempri akordu sedu mas nunka tomu kafé da mañã",
+        "es": "Yo siempre me despierto temprano, pero nunca desayuno."
+      },
+      {
+        "zh": "Às vezes eu tomo só um suco.",
+        "py": "as vezis eu tomu só un suku",
+        "es": "A veces tomo solo un jugo."
+      },
+      {
+        "zh": "Depois do almoço eu descanso um pouco.",
+        "py": "depois du aumosu eu deskansu un pouku",
+        "es": "Después del almuerzo descanso un rato."
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "El trabajo",
+    "summary": "Oficina, jefe, sueldo y vacaciones.",
+    "body": [
+      "Escritório, colega, chefe y empresa arman el mundo laboral. El salário llega a fin de mes y las férias se piden con tiempo. La reunião ordena el día.",
+      "Una tarefa se termina, el computador sirve para hacerla y la mensagem es el canal con los demás. Ocupado avisa que no tenés tiempo. El horário es el rango en que se trabaja."
+    ],
+    "pins": [
+      "escritório",
+      "colega",
+      "salário",
+      "férias",
+      "chefe",
+      "reunião",
+      "tarefa",
+      "computador",
+      "ocupado",
+      "mensagem",
+      "empresa",
+      "horário"
+    ]
+  },
+  {
+    "number": 5,
+    "title": "La ropa",
+    "summary": "Lo que te ponés, de la remera a los anteojos.",
+    "body": [
+      "Camiseta, calça, camisa y sapato alcanzan para vestirte. Sumá vestido, saia y casaco para el frío, tênis para hacer deporte y meia para los pies.",
+      "Chapéu, óculos y bolsa cierran el look. Fijate que óculos siempre va en plural: meus óculos. Para decir «usar ropa» se usa el verbo usar: eu uso camiseta no verão."
+    ],
+    "pins": [
+      "camiseta",
+      "calça",
+      "camisa",
+      "vestido",
+      "saia",
+      "casaco",
+      "sapato",
+      "tênis",
+      "meia",
+      "chapéu",
+      "óculos",
+      "bolsa"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "El cuerpo y la salud",
+    "summary": "Dónde duele y a quién se lo decís.",
+    "body": [
+      "Cabeça, olho, mão, boca, dente, barriga, costas y garganta nombran el cuerpo. Dor es dolor y se usa con estar com: estou com dor de cabeça, estou com dor de barriga.",
+      "El médico receta un remédio y lo comprás en la farmácia. Para decir que algo duele se puede decir também meu dente dói, minhas costas doem: el verbo doer concuerda con lo que duele."
+    ],
+    "pins": [
+      "cabeça",
+      "olho",
+      "mão",
+      "boca",
+      "dente",
+      "barriga",
+      "costas",
+      "garganta",
+      "dor",
+      "médico",
+      "remédio",
+      "farmácia"
+    ],
+    "quiz": [
+      {
+        "prompt": "Estou com dor de cabeça significa…",
+        "options": [
+          "me duele la cabeza",
+          "tengo hambre",
+          "estoy en casa",
+          "me llamo Ana"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Remédio es…",
+        "options": [
+          "medicamento",
+          "jefe",
+          "reunión",
+          "puente"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Dónde comprás un remédio?",
+        "options": [
+          "en la farmácia",
+          "en la praça",
+          "en la padaria",
+          "en el ônibus"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Costas es…",
+        "options": [
+          "la espalda",
+          "el precio",
+          "el sabor",
+          "la llave"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Barriga es…",
+        "options": [
+          "la panza",
+          "el zapato",
+          "la ventana",
+          "el lago"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "El pasado",
+    "summary": "Pretérito perfeito: fui, comi, fiz, vi.",
+    "body": [
+      "Para hablar de lo que ya pasó, el portugués usa el pretérito perfeito. Eu fui, eu comi, eu fiz, eu vi. Fui sirve tanto para ir como para ser: ontem eu fui ao mercado.",
+      "Las terminaciones para eu: -ei en los verbos en -ar (falei, cheguei, voltei) y -i en los verbos en -er e -ir (comi, saí). Los irregulares se aprenden de memoria: fiz, disse, tive, estive, pude.",
+      "Otro detalle: para ele, ela y você los verbos en -ar terminan en -ou: ele falou, ela chegou. Los irregulares cambian de forma: ela disse, ela fez."
+    ],
+    "pins": [
+      "fui",
+      "comi",
+      "fiz",
+      "vi",
+      "disse",
+      "tive",
+      "estive",
+      "pude",
+      "cheguei",
+      "saí",
+      "voltei",
+      "falei"
+    ],
+    "dialogue": [
+      {
+        "zh": "O que você fez ontem?",
+        "py": "u ki vose fes ontein",
+        "es": "¿Qué hiciste ayer?"
+      },
+      {
+        "zh": "Eu fui ao centro e vi um filme.",
+        "py": "eu fui au sentru i vi un fiumi",
+        "es": "Fui al centro y vi una película."
+      },
+      {
+        "zh": "Com quem você foi?",
+        "py": "kon kein vose foi",
+        "es": "¿Con quién fuiste?"
+      },
+      {
+        "zh": "Fui com minha irmã. Depois comi pizza.",
+        "py": "fui kon miña irmã depois komi pitsa",
+        "es": "Fui con mi hermana. Después comí pizza."
+      },
+      {
+        "zh": "Que legal! Eu fiquei em casa.",
+        "py": "ki legau eu fikei ein kaza",
+        "es": "¡Qué bueno! Yo me quedé en casa."
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Moverse por la ciudad",
+    "summary": "Subte, aeropuerto, trasbordo y demoras.",
+    "body": [
+      "Metrô, aeroporto y mala cubren el viaje largo. Táxi, ponto de ônibus y plataforma cubren el viaje corto. El colectivo se espera en el ponto; el tren, en la plataforma.",
+      "Un atraso y una baldeação explican por qué llegás tarde. Mapa, ponte, centro y museu te ubican cuando ya bajaste. Para pedir indicaciones se dice como chego ao centro?"
+    ],
+    "pins": [
+      "metrô",
+      "aeroporto",
+      "mala",
+      "táxi",
+      "ponto de ônibus",
+      "plataforma",
+      "atraso",
+      "baldeação",
+      "mapa",
+      "ponte",
+      "centro",
+      "museu"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "El mercado",
+    "summary": "Feria, kilo, caja y el vuelto.",
+    "body": [
+      "O mercado es el supermercado y la feira es el mercado callejero que abre algunos días a la semana. Para el pan se va a la padaria, que es mucho más que una panadería: se desayuna ahí.",
+      "Pedís un quilo y lo pesan en la balança. Pagás no caixa y te dan el troco y el recibo. Una promoção baja el preço. Con cartão pagás sin efectivo. Pedí una sacola si no llevás bolsa. Fresco elogia lo que está recién traído."
+    ],
+    "pins": [
+      "mercado",
+      "feira",
+      "padaria",
+      "quilo",
+      "caixa",
+      "troco",
+      "recibo",
+      "sacola",
+      "promoção",
+      "fresco",
+      "balança",
+      "preço",
+      "cartão"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Gustos",
+    "summary": "Me encanta, lo detesto, demasiado y bastante.",
+    "body": [
+      "Preferir arma la elección. Adorar sube la intensidad y detestar la baja. Bastante, demais, pouco y muito gradúan la cantidad: é bastante caro, está quente demais, falo pouco inglês.",
+      "Sabor, salgado, doce, amargo y picante describen el plato. Doce sirve para todo lo dulce: bolo doce, café doce. Si querés más azúcar decí mais açúcar."
+    ],
+    "pins": [
+      "preferir",
+      "adorar",
+      "detestar",
+      "bastante",
+      "demais",
+      "pouco",
+      "muito",
+      "sabor",
+      "salgado",
+      "doce",
+      "amargo",
+      "picante"
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Tiempo libre",
+    "summary": "Deporte, música y una salida.",
+    "body": [
+      "Esporte y academia son el cuerpo. Nadar y dançar son hacer. Tocar sirve para instrumentos: tocar violão.",
+      "Filme y show son la salida. El convite llega, el jogo tiene time. El passatempo es lo que hacés por gusto y música lo acompaña todo."
+    ],
+    "pins": [
+      "esporte",
+      "academia",
+      "nadar",
+      "dançar",
+      "tocar",
+      "filme",
+      "show",
+      "convite",
+      "jogo",
+      "time",
+      "passatempo",
+      "música"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "El fin de semana",
+    "summary": "Playa, montaña y una excursión en auto.",
+    "body": [
+      "O passeio sale el domingo. Campo, praia y montanha son el destino. El piquenique va en la mochila.",
+      "La trilha sube hasta la vista. Pôr do sol y amanhecer marcan la luz. El carro pide gasolina. Proponé con vamos y cerrá con a gente se vê, que es muy brasileño."
+    ],
+    "pins": [
+      "passeio",
+      "campo",
+      "praia",
+      "montanha",
+      "piquenique",
+      "trilha",
+      "mochila",
+      "pôr do sol",
+      "amanhecer",
+      "carro",
+      "gasolina",
+      "lago",
+      "vista"
+    ],
+    "dialogue": [
+      {
+        "zh": "No domingo a gente faz um passeio?",
+        "py": "nu domingu a yenchi fas un paseiu",
+        "es": "¿El domingo hacemos un paseo?"
+      },
+      {
+        "zh": "Vamos! Para a praia ou para a montanha?",
+        "py": "vamus para a praia ou para a montaña",
+        "es": "¡Vamos! ¿A la playa o a la montaña?"
+      },
+      {
+        "zh": "Montanha. Eu levo a mochila e o piquenique.",
+        "py": "montaña eu levu a moshila i u pikeniki",
+        "es": "Montaña. Yo llevo la mochila y el picnic."
+      },
+      {
+        "zh": "Vamos de carro. Falta gasolina.",
+        "py": "vamus dyi kaju fauta gazolina",
+        "es": "Vamos en auto. Falta nafta."
+      },
+      {
+        "zh": "Eu passo aí ao amanhecer.",
+        "py": "eu pasu aí au amañeser",
+        "es": "Paso por tu casa al amanecer."
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "Mochila es…",
+        "options": [
+          "la mochila",
+          "el ascensor",
+          "el sueldo",
+          "el vuelto"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Falta gasolina quiere decir…",
+        "options": [
+          "falta nafta",
+          "falta pan",
+          "está cerrado",
+          "llegué tarde"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Passeio es…",
+        "options": [
+          "un paseo",
+          "una factura",
+          "un dolor",
+          "un permiso"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Pôr do sol es…",
+        "options": [
+          "el atardecer",
+          "el desayuno",
+          "el andén",
+          "el jefe"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Amanhecer significa…",
+        "options": [
+          "amanecer",
+          "anochecer",
+          "almorzar",
+          "bailar"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+]
