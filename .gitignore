@@ -8,3 +8,8 @@ data/es-cache.json
 assets/audio/*.mp3
 assets/audio/*.part
 scripts/_tts_test/
+
+__pycache__/
+scripts/__pycache__/
+*.pyc
+
